@@ -30,7 +30,3 @@ Random Forest Classifier: The code uses a Random Forest Classifier to predict su
 K-Nearest Neighbors (KNN) Classifier: Additionally, a KNN classifier is implemented to demonstrate a different approach to classification. However, due to its simplicity and potential overfitting, it may not yield the best results.
 Contributing
 Contributions to this project are welcome. If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
-
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
